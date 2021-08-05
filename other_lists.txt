@@ -1,7 +1,8 @@
 download "https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 download "https://easylist.to/easylist/fanboy-social.txt"
-download "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-download "https://easylist.to/easylist/easyprivacy.txt
-download "https://easylist.to/easylist/easylist.txt
+download "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt"
+download "https://easylist.to/easylist/easyprivacy.txt"
+download "https://easylist.to/easylist/easylist.txt"
 download "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+download "https://raw.githubusercontent.com/gistcw12/adblock_lists/main/blacklist.txt"
 
